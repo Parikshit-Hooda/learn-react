@@ -28,7 +28,7 @@ class Counter extends React.Component {
 
   fn1(){
     const { count } = this.state;
-    return count === 2 ? ":)" : ":(";
+    return count === 2 ? ":D" : ":()";
   }
 }
  
