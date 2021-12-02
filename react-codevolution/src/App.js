@@ -3,6 +3,7 @@ import React from "react";
 import { UCProvider, UCConsumer } from "./userContext";
 import Component1 from "./Component1";
 import EventBind from "./EventBind";
+import ParentComponent from "./ParentComponent";
 
 export default function App() {
   return (
